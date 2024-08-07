@@ -1,0 +1,7 @@
+The training data for binary classification task is at the following addresses:
+- https://www.kaggle.com/datasets/romovpa/gosuai-dota-2-game-chats
+- https://www.kaggle.com/datasets/sainitishmitta04/23k-reddit-gaming-comments-with-sentiments-dataset
+- https://www.kaggle.com/datasets/simshengxue/league-of-legends-tribunal-chatlogs
+
+The training data for binary classification task is at the following addresses:
+- https://www.kaggle.com/datasets/simshengxue/league-of-legends-tribunal-chatlogs
